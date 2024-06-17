@@ -1,7 +1,7 @@
 import openai
 
 selected_model = "gpt-3.5-turbo"
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def openai_generate(user_prompt):

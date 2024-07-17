@@ -4,8 +4,7 @@ import json
 # Define your LinkedIn API endpoint and access token
 API_ENDPOINT = "https://api.linkedin.com/v2/ugcPosts"
 API_ENDPOINT_1 = "https://api.linkedin.com/v2/assets?action=registerUpload"
-ACCESS_TOKEN = "AQXzcgGB3TifJTSzrd0PpP-V4xKAxG6YxC26fhVcrXh5VfMo4vULkHD1w19KB3U7pkJQra8jO6CkIrY8TKdI7GdD5x3738eSBLd_O8ESbNaFQDWSgHjPCnqOmldABE2aM84CyugKZ4HpZM8_L4-zZy4j9YAECr4608klJFaLVqshAJ5CYQHdNdxs6ym7KPXaD7e8oJhOOyOABwhuJ83gqU_IzWMUtHVXHQpcjSvivKrtYT7-ONqUxoKhoQPQrnSpb5P1XqvlH7k7Oz6d216Kiznz3yVAT0mORn0t1ZOG7RKuSw6GpDZ-a_vd_RoPFRnhNjkfXAJEVJyZ3K9BpmCkoc1W6Vkaxw" #Get Access Token from Linkedin developer account
-register_upload_url = "https://api.linkedin.com/v2/assets?action=registerUpload"
+
 share_url = API_ENDPOINT
 access_token = ACCESS_TOKEN
 person_urn = "urn:li:person:uI4o43q-LT" #Get URN-ID from Postman
